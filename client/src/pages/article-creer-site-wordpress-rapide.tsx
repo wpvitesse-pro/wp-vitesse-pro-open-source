@@ -22,7 +22,7 @@ export default function ArticleCreerSiteWordPressRapide() {
     "description": "Guide complet pour créer un site WordPress rapide en 2026. 12 étapes détaillées, choix hébergement Kinsta, optimisation Core Web Vitals, plugins essentiels. Tutoriel expert avec benchmarks.",
     "image": "https://wp-vitesse-pro.fr/og-image.png",
     "datePublished": "2026-01-03T09:00:00+01:00",
-    "dateModified": "2026-02-07T10:00:00+01:00",
+    "dateModified": "2026-02-07T15:48:38.339Z",
     "wordCount": 3800,
     "author": {
       "@type": "Person",
@@ -99,7 +99,7 @@ export default function ArticleCreerSiteWordPressRapide() {
       "https://wp-vitesse-pro.fr/og-image.png"
     ],
     "datePublished": "2026-01-03T09:00:00+01:00",
-    "dateModified": "2026-02-07T10:00:00+01:00",
+    "dateModified": "2026-02-07T15:48:38.339Z",
     "author": {
       "@type": "Person",
       "name": "Bouhmou Rachid",
