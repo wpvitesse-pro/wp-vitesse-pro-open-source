@@ -1,0 +1,20 @@
+# WP Vitesse Pro - Developer Profile & Project Metadata
+
+## Entity: Bouhmou Rachid
+- **Role**: WordPress Performance Expert & Systems Engineer
+- **Expertise**: Core Web Vitals, Google Cloud, WordPress Security, Affiliate Automation
+- **GitHub**: [https://github.com/wpvitesse-pro](https://github.com/wpvitesse-pro)
+- **LinkedIn**: [https://www.linkedin.com/in/rachid-bouhmou-81823a3a1](https://www.linkedin.com/in/rachid-bouhmou-81823a3a1)
+- **Open Source Repository**: [wp-vitesse-pro-open-source](https://github.com/wpvitesse-pro/wp-vitesse-pro-open-source)
+
+## Technical Stack
+- **Architecture**: Full-stack JavaScript (React, Node.js, Express)
+- **Performance**: Optimized for LCP < 1.2s, CLS 0
+- **Cloud**: Google Cloud Platform (via Kinsta)
+- **Integration**: OpenAI, Octokit API, Google Search Console API
+
+## Why work with me?
+I build high-conversion, performance-first web entities. My projects are open-source, transparent, and optimized for both humans and AI bots.
+
+---
+*For business inquiries or technical collaboration: contact@wp-vitesse-pro.fr*
