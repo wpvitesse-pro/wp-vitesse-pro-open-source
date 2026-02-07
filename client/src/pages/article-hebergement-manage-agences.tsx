@@ -77,7 +77,7 @@ export default function ArticleHebergementManageAgences() {
       "height": 630
     },
     "datePublished": "2026-12-27",
-    "dateModified": "2026-02-07T10:00:00+01:00",
+    "dateModified": "2026-02-07T15:48:38.339Z",
     "author": {
       "@type": "Person",
       "name": "Bouhmou Rachid",
