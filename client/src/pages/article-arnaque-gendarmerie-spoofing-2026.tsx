@@ -31,7 +31,7 @@ export default function ArticleArnaqueGendarmerieSpoofing2026() {
       "https://wp-vitesse-pro.fr/images/arnaque-gendarmerie-spoofing-hero-2026.png"
     ],
     "datePublished": "2026-02-05T09:00:00+01:00",
-    "dateModified": "2026-02-07T10:00:00+01:00",
+    "dateModified": "2026-02-07T15:48:38.339Z",
     "author": {
       "@type": "Organization",
       "name": "WP Vitesse Pro",
