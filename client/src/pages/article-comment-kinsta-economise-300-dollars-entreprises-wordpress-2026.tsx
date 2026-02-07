@@ -105,7 +105,7 @@ export function ArticleCommentKinstaEconomise300Dollars2026() {
       "https://wp-vitesse-pro.fr/images/kinsta-economiser-300-dollars-entreprises-wordpress-2026-hero.png"
     ],
     "datePublished": "2026-02-07T16:00:00+01:00",
-    "dateModified": "2026-02-07T15:48:38.339Z",
+    "dateModified": "2026-02-07T15:52:11.184Z",
     "author": {
       "@type": "Person",
       "name": "Bouhmou Rachid",
