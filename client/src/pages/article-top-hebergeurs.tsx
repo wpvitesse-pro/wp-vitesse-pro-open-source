@@ -66,7 +66,7 @@ export default function ArticleTopHebergeurs() {
       "caption": "Comparatif des meilleurs hébergeurs WordPress 2026"
     },
     "datePublished": "2026-01-01T09:00:00+01:00",
-    "dateModified": "2026-02-07T10:00:00+01:00",
+    "dateModified": "2026-02-07T15:48:38.339Z",
     "wordCount": 7500,
     "proficiencyLevel": "Beginner to Expert",
     "technicalAudience": "Webmasters, propriétaires de sites WordPress, agences digitales, e-commerçants",
