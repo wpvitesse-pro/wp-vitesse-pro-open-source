@@ -567,7 +567,7 @@ export default function ArticleFuiteDonneesDoctolib2026() {
       "name": "WP Vitesse Pro"
     },
     "dateCreated": "2026-01-05",
-    "dateModified": "2026-02-07T10:00:00+01:00",
+    "dateModified": "2026-02-07T15:48:38.339Z",
     "temporalCoverage": "2026-01",
     "spatialCoverage": {
       "@type": "Place",
