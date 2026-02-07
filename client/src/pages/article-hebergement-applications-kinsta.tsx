@@ -223,7 +223,7 @@ export default function ArticleHebergementApplicationsKinsta() {
         "@type": "HowToStep",
         "position": 3,
         "name": "Configurer l'environnement",
-        "text": "Choisissez votre datacenter parmi les 25 disponibles, configurez les variables d'environnement (DATABASE_URL, API_KEYS, etc.) et sélectionnez la taille de pod adaptée."
+        "text": "Choisissez votre datacenter parmi les 25 disponibles, configurez les variables d'environnement ("REDACTED_SECRET", API_KEYS, etc.) et sélectionnez la taille de pod adaptée."
       },
       {
         "@type": "HowToStep",
@@ -941,7 +941,7 @@ export default function ArticleHebergementApplicationsKinsta() {
                       <h3 className="font-bold text-lg mb-2">Configurer l'environnement</h3>
                       <p className="text-muted-foreground">
                         Choisissez le datacenter le plus proche de vos utilisateurs parmi les 25 disponibles. 
-                        Configurez vos variables d'environnement (DATABASE_URL, API_KEYS, secrets). 
+                        Configurez vos variables d'environnement ("REDACTED_SECRET", API_KEYS, secrets). 
                         Sélectionnez la taille de pod adaptée à vos besoins (Hobby pour commencer, 
                         vous pouvez upgrader à tout moment).
                       </p>
