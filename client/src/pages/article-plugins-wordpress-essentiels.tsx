@@ -42,7 +42,7 @@ export default function ArticlePluginsWordPressEssentiels() {
     "description": "Découvrez les 25 meilleurs plugins WordPress indispensables en 2026. Performance, SEO, sécurité, cache, sauvegarde. Guide expert avec comparatifs et recommandations.",
     "image": "https://wp-vitesse-pro.fr/og-image.png",
     "datePublished": "2026-12-14",
-    "dateModified": "2026-02-07T15:48:38.339Z",
+    "dateModified": "2026-02-07T15:52:11.184Z",
     "author": {
       "@type": "Person",
       "name": "Bouhmou Rachid",
