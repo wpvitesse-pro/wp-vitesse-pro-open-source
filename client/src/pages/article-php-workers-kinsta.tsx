@@ -19,7 +19,7 @@ export default function ArticlePHPWorkersKinsta() {
     "description": "Découvrez comment les PHP Workers de Kinsta boostent la vitesse de votre WordPress. Guide technique complet avec benchmarks, configuration optimale et astuces d'experts pour un site ultra-rapide.",
     "image": "https://wp-vitesse-pro.fr/og-image.png",
     "datePublished": "2026-01-02T09:00:00+01:00",
-    "dateModified": "2026-02-07T15:48:38.339Z",
+    "dateModified": "2026-02-07T15:52:11.184Z",
     "wordCount": 3200,
     "author": {
       "@type": "Person",
