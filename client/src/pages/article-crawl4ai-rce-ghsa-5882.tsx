@@ -733,7 +733,7 @@ export default function ArticleCrawl4AIRCE() {
     }
 
     const exploitationDetails = [
-      { name: "Exfiltration de clés API", description: "Vol de OPENAI_API_KEY, AWS_SECRET_ACCESS_KEY et autres secrets d'environnement", severity: "CRITICAL" },
+      { name: "Exfiltration de clés API", description: "Vol de "REDACTED_SECRET", AWS_SECRET_ACCESS_KEY et autres secrets d'environnement", severity: "CRITICAL" },
       { name: "Reverse Shell", description: "Établissement d'une connexion shell inverse via netcat ou bash", severity: "CRITICAL" },
       { name: "Téléchargement de malware", description: "Récupération de binaires malveillants depuis serveur C2", severity: "HIGH" },
       { name: "Scan réseau interne", description: "Énumération des services accessibles depuis le conteneur", severity: "MEDIUM" },
