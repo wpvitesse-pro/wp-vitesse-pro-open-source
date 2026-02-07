@@ -50,7 +50,7 @@ export default function ArticleHebergementWebGuide() {
     "description": "Guide complet sur l'hébergement web en 2026. Découvrez les types d'hébergement (partagé, VPS, dédié, cloud), leur impact sur le SEO, et pourquoi Kinsta est le choix optimal pour WordPress.",
     "image": "https://wp-vitesse-pro.fr/og-image.png",
     "datePublished": "2026-12-14",
-    "dateModified": "2026-02-07T10:00:00+01:00",
+    "dateModified": "2026-02-07T15:48:38.339Z",
     "author": {
       "@type": "Person",
       "name": "Bouhmou Rachid",
