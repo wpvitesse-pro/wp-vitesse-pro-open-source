@@ -50,7 +50,7 @@ const articleSchema = {
     "https://wp-vitesse-pro.fr/assets/images/sncf-phishing-2026.png"
   ],
   "datePublished": "2026-01-30T06:47:00+01:00",
-  "dateModified": "2026-02-07T15:48:38.339Z",
+  "dateModified": "2026-02-07T15:52:11.184Z",
   "author": {
     "@type": "Person",
     "name": "Bouhmou Rachid",
