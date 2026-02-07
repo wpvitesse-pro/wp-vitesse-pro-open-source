@@ -30,9 +30,11 @@ Tous les tests et benchmarks présents sur ce site sont réalisés sur l'infrast
 - **SEO** : Schéma.org JSON-LD dynamique, Optimisation GEO (AI-ready)
 - **Outils** : Audit de site automatisé, Test PageSpeed intégré
 
-## 📂 Structure des Articles
+## 🤖 Automatisation Google Discover
 
-Vous trouverez nos guides ultra-profonds (8000+ mots) dans le dossier `client/src/pages/`. Ces articles sont régulièrement mis à jour pour refléter les dernières failles de sécurité et optimisations de 2026.
+Le projet inclut des scripts pour maintenir la "fraîcheur" du contenu, un critère clé pour Google Discover :
+- `server/update-freshness.ts` : Met à jour automatiquement les dates de modification des articles et du sitemap.
+- `server/github-sync.ts` : Synchronise le contenu avec GitHub pour renforcer l'E-E-A-T.
 
 ## 🤝 Contribution
 
