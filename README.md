@@ -1,112 +1,43 @@
-# WP Vitesse Pro — Open Source Tools & Investigations
+# WP Vitesse Pro - Open Source Project 🚀
 
-> **Code source et outils techniques open-source de [wp-vitesse-pro.fr](https://wp-vitesse-pro.fr)** — La référence francophone en performance WordPress et cybersécurité.
+[![GitHub stars](https://img.shields.io/github/stars/wpvitesse-pro/wp-vitesse-pro-open-source.svg?style=social)](https://github.com/wpvitesse-pro/wp-vitesse-pro-open-source)
+[![Website](https://img.shields.io/badge/Website-wp--vitesse--pro.fr-7C3AED)](https://wp-vitesse-pro.fr)
+[![WordPress](https://img.shields.io/badge/CMS-WordPress-21759b)](https://wordpress.org)
+[![Hosting](https://img.shields.io/badge/Hosting-Kinsta-black)](https://wp-vitesse-pro.fr/go/kinsta)
 
----
+Bienvenue sur le dépôt officiel de **WP Vitesse Pro**, la plateforme de référence pour l'optimisation des performances et de la sécurité WordPress en France.
 
-## Qui sommes-nous ?
+## 📖 À propos de ce projet
 
-**WP Vitesse Pro** est une plateforme d'expertise technique spécialisée dans :
+Ce dépôt est le cœur technique de [wp-vitesse-pro.fr](https://wp-vitesse-pro.fr). Dans une démarche de **Build in Public**, nous partageons l'intégralité de nos guides, scripts d'analyse et architecture pour garantir une transparence totale sur nos tests de performance.
 
-- **La performance WordPress** : Tests de vitesse, optimisation Core Web Vitals, audits complets
-- **La cybersécurité** : Investigations exclusives, analyses de failles, guides de protection
-- **L'hébergement web** : Comparatifs objectifs, migrations, benchmarks
+### Pourquoi l'Open Source ?
+- **Transparence** : Validez nos méthodes de test Core Web Vitals.
+- **Expertise** : Un socle technique robuste basé sur React, Vite et Express.
+- **Communauté** : Partage de connaissances pour un web plus rapide et sécurisé.
 
-Nous publions ici le code source de nos outils et les données techniques de nos investigations pour contribuer à la communauté open-source et promouvoir la transparence.
+## ⚡ Performance WordPress avec Kinsta
 
----
+Tous les tests et benchmarks présents sur ce site sont réalisés sur l'infrastructure **Kinsta**, notre partenaire exclusif. 
 
-## Outils disponibles
+> **Besoin d'un hébergement qui décolle ?**
+> [Découvrez les plans Kinsta (Affilié)](https://wp-vitesse-pro.fr/go/kinsta) — Profitez de l'infrastructure Google Cloud Platform et du CDN Cloudflare pour des performances inégalées.
 
-### Test de Vitesse WordPress (`speed-test.tsx`)
-Un outil professionnel gratuit pour analyser la performance de n'importe quel site web via l'API officielle Google PageSpeed Insights.
+## 🛠️ Stack Technique
 
-**Fonctionnalités :**
-- Scores Performance Mobile & Desktop
-- Core Web Vitals complets (LCP, FID/INP, CLS, FCP, TTFB, TBT)
-- Recommandations d'optimisation personnalisées
-- Historique des tests sauvegardé localement
-- Export PDF des résultats
-- Glossaire interactif des métriques web
-- Interface 100% en français
+- **Frontend** : React, Tailwind CSS, Shadcn UI, Wouter
+- **Backend** : Node.js, Express
+- **SEO** : Schéma.org JSON-LD dynamique, Optimisation GEO (AI-ready)
+- **Outils** : Audit de site automatisé, Test PageSpeed intégré
 
-**Essayer en ligne :** [wp-vitesse-pro.fr/test-vitesse](https://wp-vitesse-pro.fr/test-vitesse)
+## 📂 Structure des Articles
 
----
+Vous trouverez nos guides ultra-profonds (8000+ mots) dans le dossier `client/src/pages/`. Ces articles sont régulièrement mis à jour pour refléter les dernières failles de sécurité et optimisations de 2026.
 
-## Investigations Cybersécurité
+## 🤝 Contribution
 
-Nos articles d'investigation de 8 000+ mots suivent une méthodologie rigoureuse :
-
-| Investigation | Sujet | Statut |
-|---|---|---|
-| Piratage FFVoile 2026 | 19+ fédérations sportives piratées, 4,5M de données | Publié |
-| Multivers Hackeur Russe | Dark Covenant, GRU/FSB/SVR, NoName057(16) | Publié |
-| Botnet AISURU/Kimwolf | Attaque DDoS record 31,4 Tbps | Publié |
-| Cyberattaque La Sapienza | Ransomware universitaire, 72h ultimatum | Publié |
-
-**Lire les investigations :** [wp-vitesse-pro.fr/blog](https://wp-vitesse-pro.fr/blog)
+Nous encourageons la transparence. Si vous trouvez une erreur dans un script ou une analyse technique, n'hésitez pas à ouvrir une Issue ou une Pull Request.
 
 ---
 
-## Stack Technique
-
-| Technologie | Usage |
-|---|---|
-| React + TypeScript | Frontend SPA |
-| Tailwind CSS + Shadcn UI | Design system |
-| Express.js | Backend API |
-| Google PageSpeed API | Analyse de performance |
-| Google Search Console API | Monitoring SEO |
-| Drizzle ORM + PostgreSQL | Base de données |
-| Vite | Build & Dev server |
-
----
-
-## Pourquoi l'open source ?
-
-1. **Transparence** — Nos outils analysent vos sites. Vous méritez de voir comment ils fonctionnent.
-2. **E-E-A-T** — Nous prouvons notre expertise technique, pas seulement par les mots mais par le code.
-3. **Communauté** — Le web francophone manque de ressources techniques de qualité. Nous y contribuons.
-4. **Apprentissage** — Chaque fichier est un exemple concret de React, TypeScript et intégration d'API.
-
----
-
-## Contribuer
-
-Les contributions sont les bienvenues ! Si vous trouvez un bug ou souhaitez proposer une amélioration :
-
-1. Forkez le dépôt
-2. Créez une branche (`git checkout -b feature/amelioration`)
-3. Committez vos changements (`git commit -m 'Ajout de fonctionnalité'`)
-4. Pushez vers la branche (`git push origin feature/amelioration`)
-5. Ouvrez une Pull Request
-
----
-
-## Autres Outils en Ligne
-
-| Outil | Description | Lien |
-|---|---|---|
-| Audit de Site Complet | 10 analyses (Performance, SEO, Sécurité, Accessibilité...) | [/audit-site](https://wp-vitesse-pro.fr/audit-site) |
-| Test de Vitesse | Core Web Vitals via Google PageSpeed | [/test-vitesse](https://wp-vitesse-pro.fr/test-vitesse) |
-| Chatbot IA WordPress | Assistant IA spécialisé WordPress | [/chatbot-ai](https://wp-vitesse-pro.fr/chatbot-ai) |
-| Comparatif Hébergeurs | Benchmark objectif des hébergeurs WordPress | [/comparatif](https://wp-vitesse-pro.fr/comparatif) |
-
----
-
-## Licence
-
-Le code partagé dans ce dépôt est mis à disposition sous licence **MIT**. Vous êtes libre de l'utiliser, le modifier et le redistribuer, à condition de mentionner la source originale.
-
----
-
-## Contact
-
-- **Site web :** [wp-vitesse-pro.fr](https://wp-vitesse-pro.fr)
-- **Auteur :** [Bouhmou Rachid](https://wp-vitesse-pro.fr/auteur/bouhmou-rachid)
-- **Entity :** [wp-vitesse-pro.fr/entity](https://wp-vitesse-pro.fr/entity)
-
----
-
-*Fait avec passion pour la communauté WordPress francophone.*
+*© 2026 WP Vitesse Pro. Propulsé par [Kinsta](https://wp-vitesse-pro.fr/go/kinsta).*
