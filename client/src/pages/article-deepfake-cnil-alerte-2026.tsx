@@ -74,7 +74,7 @@ const newsArticleSchema = {
     "https://wp-vitesse-pro.fr/images/deepfake-cnil-hero-2026.png"
   ],
   "datePublished": "2026-02-05T08:00:00+01:00",
-  "dateModified": "2026-02-07T10:00:00+01:00",
+  "dateModified": "2026-02-07T15:48:38.339Z",
   "wordCount": 4500,
   "articleSection": "Cybersécurité",
   "inLanguage": "fr-FR",
