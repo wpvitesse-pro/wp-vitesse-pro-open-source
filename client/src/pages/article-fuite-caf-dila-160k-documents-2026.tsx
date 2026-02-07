@@ -81,7 +81,7 @@ export default function ArticleFuiteCAFDILA2026() {
       ]
     },
     "datePublished": "2026-01-24T06:00:00+01:00",
-    "dateModified": "2026-02-07T10:00:00+01:00",
+    "dateModified": "2026-02-07T15:48:38.339Z",
     "image": {
       "@type": "ImageObject",
       "url": "https://wp-vitesse-pro.fr/assets/fuite-caf-dila-2026-hero.jpg",
