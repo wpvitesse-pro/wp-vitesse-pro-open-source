@@ -83,7 +83,7 @@ export default function ArticleCyberattaqueMinistere2026() {
       }
     },
     "datePublished": "2026-01-15T14:00:00+01:00",
-    "dateModified": "2026-02-07T15:48:38.339Z",
+    "dateModified": "2026-02-07T15:52:11.184Z",
     "image": {
       "@type": "ImageObject",
       "url": "https://wp-vitesse-pro.fr/assets/ministere-interieur-cyber-hero.jpg",
