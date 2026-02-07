@@ -81,7 +81,7 @@ export default function ArticleFuiteOFIIANEF2026() {
       }
     },
     "datePublished": "2026-01-24T08:00:00+01:00",
-    "dateModified": "2026-02-07T10:00:00+01:00",
+    "dateModified": "2026-02-07T15:48:38.339Z",
     "image": {
       "@type": "ImageObject",
       "url": "https://wp-vitesse-pro.fr/assets/fuite-ofii-anef-2026-hero.jpg",
