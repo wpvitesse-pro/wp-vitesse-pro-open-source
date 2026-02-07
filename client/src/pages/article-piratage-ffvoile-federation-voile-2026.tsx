@@ -54,7 +54,7 @@ const articleSchema = {
     "https://wp-vitesse-pro.fr/images/piratage-ffvoile-federation-voile-hero.png"
   ],
   "datePublished": "2026-02-06T12:00:00+01:00",
-    "dateModified": "2026-02-07T10:00:00+01:00",
+    "dateModified": "2026-02-07T15:48:38.339Z",
   "author": {
     "@type": "Person",
     "name": "Bouhmou Rachid",
