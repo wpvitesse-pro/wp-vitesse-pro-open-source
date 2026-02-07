@@ -37,7 +37,7 @@ export default function ArticleVitesseSEO() {
     "description": "Découvrez pourquoi la vitesse de chargement est le facteur SEO #1 en 2026. Core Web Vitals, impact sur le référencement, solutions concrètes pour un site ultra-rapide.",
     "image": "https://wp-vitesse-pro.fr/og-image.png",
     "datePublished": "2026-12-06",
-    "dateModified": "2026-02-07T10:00:00+01:00",
+    "dateModified": "2026-02-07T15:52:11.184Z",
     "author": {
       "@type": "Person",
       "name": "Bouhmou Rachid",
