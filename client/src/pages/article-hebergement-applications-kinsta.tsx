@@ -52,7 +52,7 @@ export default function ArticleHebergementApplicationsKinsta() {
     "description": "Guide expert sur l'hébergement d'applications Kinsta. Déployez Node.js, Python, Go, Ruby, PHP avec Docker. Infrastructure Google Cloud, Kubernetes, 25 datacenters. Tarifs dès 7$/mois.",
     "image": "https://wp-vitesse-pro.fr/og-image.png",
     "datePublished": "2026-12-20",
-    "dateModified": "2026-02-07T10:00:00+01:00",
+    "dateModified": "2026-02-07T15:48:38.339Z",
     "author": {
       "@type": "Person",
       "name": "Bouhmou Rachid",
