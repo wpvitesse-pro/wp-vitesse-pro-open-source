@@ -49,7 +49,7 @@ export default function ArticleKinstaHebergementWordPressGuideComplet2026() {
       "https://wp-vitesse-pro.fr/images/kinsta-hebergement-wordpress-guide-complet-2026-hero.png"
     ],
     "datePublished": "2026-02-07T14:00:00+01:00",
-    "dateModified": "2026-02-07T15:30:00+01:00",
+    "dateModified": "2026-02-07T15:48:38.339Z",
     "author": {
       "@type": "Person",
       "name": "Bouhmou Rachid",
